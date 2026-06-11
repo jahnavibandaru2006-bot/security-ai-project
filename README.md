@@ -80,3 +80,13 @@ security-ai-project/
 ├── model_optimization/
 ├── reports/              # Saved alerts and reports
 └── main.py               # Run all modules together
+
+## 📊 Results
+- Face Recognition: ✅ Working
+- Motion Detection: ✅ Working  
+- YOLO Detection: ✅ 54.5 FPS
+- Email Alerts: ✅ Working
+- Best Model: YOLOv8 Nano (54.5 FPS)
+
+## 👩‍💻 Developer
+Jahnavi Bandaru — Computer Vision & Security AI 
