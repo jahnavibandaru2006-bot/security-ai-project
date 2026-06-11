@@ -71,3 +71,12 @@ python3.11 model_optimization/optimize.py
 ```
 
 ## 📁 Project Structure
+security-ai-project/
+├── dataset/              # Known faces
+├── face_recognition_module/
+├── motion_detection/
+├── smart_camera/
+├── security_automation/
+├── model_optimization/
+├── reports/              # Saved alerts and reports
+└── main.py               # Run all modules together
