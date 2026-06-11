@@ -1,0 +1,13 @@
+AI Model Comparison Report
+==================================================
+
+Model: YOLOv8 Nano (Smallest)
+FPS: 54.5
+Avg Time: 0.018s
+Detections: 0.0
+
+Model: YOLOv8 Small
+FPS: 30.4
+Avg Time: 0.033s
+Detections: 0.0
+
